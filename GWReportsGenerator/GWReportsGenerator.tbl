@@ -1,0 +1,215 @@
+a.Id	Event Participants Id
+a.FKEventId	Event Participants Eventid
+a.FKDonorId	Event Participants Donorid
+a.Status	Event Participants Status
+a.Notes	Event Participants Notes
+a.Attended	Event Participants Attended
+a.CreateUser	Event Participants Createuser
+a.CreateDate	Event Participants Createdate
+a.LastUpdateUser	Event Participants Lastupdateuser
+a.LastUpdateDate	Event Participants Lastupdatedate
+b.Id	Events Info Id
+b.Name	Events Info Name
+b.Description	Events Info Desciption
+b.FKLocationId	Events Info Locationid
+b.FKStatusId	Events Info Statusid
+b.FKCategoryId	Events Info Categoryid
+b.FKCoordinatorId	Events Info Coordinatorid
+b.FKCampaignId	Events Info Campaignid
+b.FKAppealId	Events Info Appealid
+b.StartDateTime	Events Info Startdatetime
+b.EndDateTime	Events Info Enddatetime
+b.RSVPDateTime	Events Info Rsvpdatetime
+b.MaxCapacity	Events Info Max Capacity
+b.MinCapacity	Events Info Min Capacity
+b.RevenueGoal	Events Info Revenue Goal
+b.AttendanceGoal	Events Info Attendance Goal
+b.Notes	Events Info Notes
+b.CreateUser	Events Info Createuser
+b.CreateDate	Events Info Createdate
+b.LastUpdateUser	Events Info Lastupdateuser
+b.LastUpdateDate	Events Info Lastupdatedate
+b.FKFundId	Events Info Fundid
+c.id	Donor Id
+c.friendlyDisplay	Donor Friendly Display Name
+c.description	Donor Description
+c.salutationFormal	Donor Salutationformal
+c.salutationInformal	Donor Salutationinformal
+c.addresseeFormal	Donor Addresseeformal
+c.addresseeInformal	Donor Addresseeinformal
+c.FKMailing	Donor Mailing
+c.FKPhone	Donor Phone
+c.FKEmail	Donor Email
+c.address	Donor Address
+c.citystate	Donor Citystate
+c.addressName	Donor Addressname
+c.address1	Donor Address1
+c.address2	Donor Address 2
+c.city	Donor City
+c.state	Donor State
+c.zip	Donor Zip
+c.country	Donor Country
+c.emailName	Donor Emailname
+c.email	Donor Email
+c.bestTimeToContact	Donor Best Time To Contact
+c.bestWayToContact	Donor Best Way To Contact
+c.anonymous	Donor Anonymous
+c.doNotCall	Donor Donotcall
+c.doNotMail	Donor Donotmail
+c.doNotEmail	Donor Donotemail
+c.memberSince	Donor Member Since
+c.renewalDate	Donor Renewal Date
+c.FKsource	Donor Source
+c.FKstatus	Donor Status
+c.assignedTo	Donor Assigned To
+c.dateEntered	Donor Dateentered
+c.dateLastAction	Donor Datelastaction
+c.lastActionBy	Donor Lastactionby
+c.lastAction	Donor Lastaction
+c.deleted	Donor Deleted
+c.custom1	Donor Custom1
+c.accountingId	Donor Accountingid
+c.title	Donor Title
+c.suffix	Donor Suffix
+c.gender	Donor Gender
+c.maritalStatus	Donor Maritalstatus
+c.jobTitle	Donor Jobtitle
+c.department	Donor Department
+c.managerName	Donor Managername
+c.assistantName	Donor Assistantname
+c.FKcontactType	Donor Contacttype
+c.companyname	Donor Companyname
+c.url	Donor Url
+c.matchdescription	Donor Matchdescription
+c.acceptsmatch	Donor Acceptsmatch
+c.picture	Donor Picture
+c.pictureExt	Donor Pictureext
+c.FKdonortype	Donor Donortype
+c.profile	Donor Profile
+c.entitytype	Donor Entitytype
+c.custom13	Donor Custom13
+c.custom14	Donor Custom14
+c.custom15	Donor Custom15
+c.custom16	Donor Custom16
+c.custom17	Donor Custom17
+c.custom19	Donor Custom19
+c.custom20	Donor Custom20
+c.custom21	Donor Custom21
+c.custom22	Donor Custom22
+c.custom23	Donor Custom23
+c.custom24	Donor Custom24
+c.custom25	Donor Custom25
+c.custom51	Donor Custom51
+c.custom52	Donor Custom52
+c.custom53	Donor Custom53
+c.custom54	Donor Custom54
+c.custom55	Donor Custom55
+c.custom56	Donor Custom56
+c.custom57	Donor Custom57
+c.custom58	Donor Custom58
+c.custom59	Donor Custom59
+c.FKcustom100	Donor Custom100
+c.FKcustom101	Donor Custom101
+c.FKcustom102	Donor Custom102
+c.FKcustom103	Donor Custom103
+c.FKcustom104	Donor Custom104
+c.FKcustom105	Donor Custom105
+c.FKcustom106	Donor Custom106
+c.FKcustom107	Donor Custom107
+c.FKcustom108	Donor Custom108
+c.FKcustom109	Donor Custom109
+c.FKcustom110	Donor Custom110
+c.FKcustom111	Donor Custom111
+c.FKcustom112	Donor Custom112
+c.FKcustom113	Donor Custom113
+c.FKcustom114	Donor Custom114
+c.FKcustom115	Donor Custom115
+c.FKcustom116	Donor Custom116
+c.FKcustom117	Donor Custom117
+c.FKcustom118	Donor Custom118
+c.FKcustom119	Donor Custom119
+c.custom5	Donor Custom5
+c.custom6	Donor Custom6
+c.custom7	Donor Custom7
+c.custom8	Donor Custom8
+c.custom9	Donor Custom9
+c.custom10	Donor Custom10
+c.custom11	Donor Custom11
+c.custom12	Donor Custom12
+c.dpbc	Donor Dpbc
+c.FKPrimary	Donor Primary
+c.FKAddress2	Donor Address2
+c.addressName2	Donor Addressname2
+c.addresslines2	Donor Addresslines2
+c.citystate2	Donor Citystate2
+c.address2line1	Donor Address2Line1
+c.address2line2	Donor Address2Line2
+c.city2	Donor City2
+c.state2	Donor State2
+c.zip2	Donor Zip2
+c.dpbc2	Donor Dpbc2
+c.country2	Donor Country2
+c.FKAddress3	Donor Address3
+c.addressName3	Donor Addressname3
+c.addresslines3	Donor Addresslines3
+c.citystate3	Donor Citystate3
+c.address3line1	Donor Address3Line1
+c.address3line2	Donor Address3Line2
+c.city3	Donor City3
+c.state3	Donor State3
+c.zip3	Donor Zip3
+c.dpbc3	Donor Dpbc3
+c.country3	Donor Country3
+c.FKPhone2	Donor Phone2
+c.phoneName2	Donor Phonename2
+c.phone2	Donor Phone2
+c.FKPhone3	Donor Phone3
+c.phoneName3	Donor Phonename3
+c.phone3	Donor Phone3
+c.FKEmail2	Donor Email2
+c.emailName2	Donor Emailname2
+c.email2	Donor Email2
+c.FKEmail3	Donor Email3
+c.emailName3	Donor Emailname3
+c.email3	Donor Email3
+c.donotsolicit	Donor Donotsolicit
+c.custom150	Donor Custom150
+c.custom151	Donor Custom151
+c.custom153	Donor Custom153
+c.custom154	Donor Custom154
+c.custom155	Donor Custom155
+c.custom156	Donor Custom156
+c.custom157	Donor Custom157
+c.custom158	Donor Custom158
+c.custom159	Donor Custom159
+c.custom200	Donor Custom200
+c.custom201	Donor Custom201
+c.custom202	Donor Custom202
+c.custom203	Donor Custom203
+c.custom204	Donor Custom204
+c.custom205	Donor Custom205
+c.custom206	Donor Custom206
+c.custom207	Donor Custom207
+c.custom208	Donor Custom208
+c.custom209	Donor Custom209
+c.soundex_companyname	Donor Soundex_Companyname
+c.soundex_fname	Donor Soundex_Fname
+c.soundex_lname	Donor Soundex_Lname
+c.receiptGifts	Donor Receiptgifts
+c.FKdefaultReceiptGroup	Donor Defaultreceiptgroup
+c.createdBy	Donor Createdby
+c.longitude	Donor Longitude
+c.latitude	Donor Latitude
+c.emailserviceid	Donor Emailserviceid
+c.emailserviceemail	Donor Emailserviceemail
+c.emailservicestatus	Donor Emailservicestatus
+c.emailservicedatelastupdate	Donor Emailservicedatelastupdate
+c.mailinglistdatelastupdate	Donor Mailinglistdatelastupdate
+c.facebook	Donor Facebook
+c.twitter	Donor Twitter
+c.linkedin	Donor Linkedin
+c.grantFunder	Donor Grantfunder
+c.FKGrantFunderType	Donor Grantfundertype
+c.FKGrantManager	Donor Grantmanager
+c.FKGrantWriter	Donor Grantwriter
+c.FKGrantRating	Donor Grantrating

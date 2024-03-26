@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GWReportsGenerator
+</name>
+</assembly>
+<members>
+<member name="T:GWReportsGenerator.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.Actions_print_preview_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.ajax_loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.Excel_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.file_extension_pdf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GWReportsGenerator.My.Resources.Resources.splashgw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>ftp://bosslaw_ftpuser%40193.16.10.7/public_html/clients/manresa/GWReportsGenerator/|C:\Install\|http://renzlo.org/installers/GiftWorksReportsGenerator/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://www.bosslaw.info/clients/manresa/GWReportsGenerator/|https://www.manresa-sj.org/Installers/GiftWorksReportsGenerator/|https://www.manresa-sj.org/Installers/GiftWorksReportsGenerator/GWReportsGenerator.application/|https://manresa-sj.com/Installers/GWReportsGenerator/|http://renzlo.org/installers/GiftWorksReportsGenerator/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
